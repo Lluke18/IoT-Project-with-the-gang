@@ -1,0 +1,4 @@
+In order to run, this project requires:
+The PlatformIO extension from VSCode.
+The Flutter SDK
+The Firebase API
